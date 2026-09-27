@@ -1,3 +1,7 @@
+
 this is my first project to practice the git and github testing the main bracnh
+
+this is my first project to practice the git and github to learn how professionals deploy there codes...
+ conflict-branch
 
 learnin the git step by step
